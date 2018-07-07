@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MeuBebeJoãoPaulo</string>
+    <string name="title_activity_cadastro_bebe">Cadastro do Bebê</string>
+    <string name="title_activity_main">@string/app_name</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--activy_main_drawer -->
+    <string name="my_baby">Meu Bebe</string>
+    <string name="add_activity">Adicionar Atividade</string>
+    <string name="list_activity">Listar Atividades</string>
+    <string name="menu_preferences">Preferencias</string>
+    <string name="baby_preferences">Editar Perfil do Bebê</string>
+
+
+    <!--activity_baby_profile -->
+    <string name="baby_data">Dados do Meu Bebê</string>
+    <string name="baby_name">Nome:</string>
+    <string name="baby_birthday">Data de Nascimento:</string>
+    <string name="baby_gender">Sexo:</string>
+    <string name="baby_last_activity">Última Atividade:</string>
+    <string name="baby_most_recurrent">Atividade Mais Recorrente:</string>
+    <string name="title_activity_baby_profile">Perfil do Bebê</string>
+
+    <!--Dialog Baby Register-->
+    <string name="confirm_baby_register">Deseja Confirmar os Dados do Bebê?</string>
+    <string name="cancel_baby_register">Deseja Cancelar e Retornar ao Menu?</string>
+
+    <!--General Inputs-->
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="title_activity_baby_activities_register">Registro de Atividades</string>
+    <string name="register_baby_activities_activity">Atividade:</string>
+    <string name="date">Data:</string>
+    <string name="hour">Hora:</string>
+    <string name="amount_optional">Quantidade (Opcional):</string>
+    <string name="notes">Observações:</string>
+    <string name="save">Salvar</string>
+    <string name="order">Ordenar</string>
+    <string name="order_up">Ordenar ↑</string>
+    <string name="order_down">Ordenar ↓</string>
+
+    <string name="activity_Register">Cadastro de Atividade</string>
+    <string name="activity_Edit">Edição de Atividade</string>
+    <string name="delete">Deletar</string>
+    <string name="uterus_sound">Som de Útero</string>
+</resources>

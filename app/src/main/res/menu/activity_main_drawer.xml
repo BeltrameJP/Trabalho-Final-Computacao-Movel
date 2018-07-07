@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_my_baby"
+            android:icon="@drawable/ic_baseline_face_24px"
+            android:title="@string/my_baby" />
+
+        <item
+            android:id="@+id/nav_add_activity"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/add_activity"/>
+    </group>
+
+    <item android:title="@string/menu_preferences">
+        <menu>
+            <item
+                android:id="@+id/nav_baby_preferences"
+                android:icon="@drawable/ic_baseline_edit_24px"
+                android:title="@string/baby_preferences"/>
+        </menu>
+    </item>
+
+
+</menu>
